@@ -1,2 +1,2 @@
 # Hexadecimal
-[![hexa](/images/hexa.png)]((https://youtu.be/CubfLxSCvvE))
+[![hexa](/images/hexa.png)](https://youtu.be/CubfLxSCvvE)
